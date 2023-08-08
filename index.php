@@ -3,7 +3,7 @@
 	<tittle>TITULO</tittle>
 	<link href="estilos.css">
  </head>
- <body>
+ <body bgcolor="#E690FA">
 	<?php echo '<p>Hola amigos</p> '; ?>
  </body>
 </html>
